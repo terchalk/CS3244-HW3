@@ -1,1 +1,3 @@
-# CS3244-HW3
+# Machine Learning Homework 3!!
+
+Using Eigenfaces with rbf SVM!
